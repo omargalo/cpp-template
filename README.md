@@ -1,10 +1,12 @@
-# C++
+## C++
 C++ Foundations
 
-# Visual Code Extensions
+## Requirements
+- MinGW
+## Visual Code Extensions
 - Code Runner by Jun Han
 - c/c++ by Microsoft
-# Config MSVC compiler
+## Config MSVC compiler
 - open developer PowerShell for VS 2022
 - cd working directory
 - open proyect with .code
@@ -42,5 +44,3 @@ Adjust:
 - ../bin/Hostx64/x64/cl.exe
 - C standard > 23
 - C++ standard > 23
-
-
